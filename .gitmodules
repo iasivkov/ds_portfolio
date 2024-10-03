@@ -4,3 +4,6 @@
 [submodule "DE_recsys_spark_hadoop"]
 	path = DE_recsys_spark_hadoop
 	url = https://github.com/iasivkov/DE_recsys_spark_hadoop.git
+[submodule "peaks-and-lowlands"]
+	path = peaks-and-lowlands
+	url = https://github.com/iasivkov/peaks-and-lowlands.git
